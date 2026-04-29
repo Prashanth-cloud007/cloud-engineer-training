@@ -1,1 +1,4 @@
-Haii i am updating the java file two please make the requried changes  
+  
+=======
+Haii i am updating the java file one please make the requried changes  
+>>>>>>> dev1
