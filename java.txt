@@ -1,5 +1,7 @@
-  
-  ihope for the best 
+   
 =======
+=======
+======hope fo rit =
+>>>>>>> raja
 Haii i am updating the java file one please make the requried changes  
 >>>>>>> dev1
